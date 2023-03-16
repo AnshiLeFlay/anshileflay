@@ -14,3 +14,6 @@ ReactJS, Redux, JavaScript, TypeScript, Jest, Cypress, NodeJS (ExpressJS), SQL (
 
 На текущий момент я нахожусь в Ереване, Армения. Ищу удаленную работу frontend/fullstack разработчика. Хочу перейти больше во фронт, но могу работать и с беком. Готов к релокации.
 
+## Контакты 
+
+(https://t.me/anshileflay)[https://t.me/anshileflay]
