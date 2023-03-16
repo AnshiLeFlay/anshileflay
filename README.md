@@ -16,6 +16,6 @@ ReactJS, Redux, JavaScript, TypeScript, Jest, Cypress, NodeJS (ExpressJS), SQL (
 
 ## Контакты 
 
-[https://t.me/anshileflay](telegram)
+[telegram](https://t.me/anshileflay)
 
-[https://www.linkedin.com/in/denispominov/](LinkedIn)
+[LinkedIn](https://www.linkedin.com/in/denispominov/)
