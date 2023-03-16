@@ -16,4 +16,4 @@ ReactJS, Redux, JavaScript, TypeScript, Jest, Cypress, NodeJS (ExpressJS), SQL (
 
 ## Контакты 
 
-(https://t.me/anshileflay)[https://t.me/anshileflay]
+[https://t.me/anshileflay](https://t.me/anshileflay)
