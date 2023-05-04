@@ -6,7 +6,10 @@
 
 ## Технический стек
 
-ReactJS, Redux, JavaScript, TypeScript, NextJS, Jest, Cypress, NodeJS (ExpressJS), SQL (MySQL, PostgreSQL), UI (Material UI, Ant Design), PHP (Laravel, Yii2), REST/GraphQL
+#Front
+ReactJS, Redux, JavaScript, TypeScript, NextJS, Jest, Cypress, UI (Material UI, Ant Design), REST/GraphQL
+#Back
+NodeJS (ExpressJS), SQL (MySQL, PostgreSQL), PHP (Laravel, Yii2) 
 
 ## Географическое местонахождение и поиск работы
 
